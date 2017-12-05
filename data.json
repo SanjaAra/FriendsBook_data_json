@@ -1,4 +1,4 @@
-var friendsDb=[
+[
   {
     "id": 1,
     "firstName": "Paul",
